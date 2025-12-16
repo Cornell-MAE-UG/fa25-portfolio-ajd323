@@ -22,9 +22,9 @@ Senior mechanical engineering student at Cornell University with strong industry
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.33/4.0 | Graduation: May, 2026
 
-- **[Ward Melville Senior High School]**  
+- **Ward Melville Senior High School**  
   *High School Diploma*  
-  Graduation: [June, 2022]
+  Graduation: June, 2022
 
 ---
 
@@ -51,7 +51,7 @@ Oscilloscope, Programming Microcontrollers, SMD/ THT Soldering for PCBs, Complex
   - Designed and assembled full-scale equipment for operational sEMG and IMU equipment utilized in the V1 prototype
 
 - **Tuned Tremor-Resistant Walking Cane (SteadyStide)**:  
-  *Led prototyping, dynamic modeling, & clinical trials for a Class I assistive walking device for patients afflicted with late-stage Parkinson's Disease
+  *Led prototyping, dynamic modeling, & clinical trials for a Class I assistive walking device for patients afflicted with late-stage Parkinson's Disease*
   - Winner of the Medtronic BMES 2024 Student Design Competition (Mechanical Track) & $2,500 for commercialization
   - Managed IRB-approved experimental trials with Parkinson’s patients at the SUNY Cortland Biomechanics Laboratory
   - Created 500+ line MATLAB simulation of tuned-mass damper kinematics to preliminarily estimate performance metrics
@@ -66,23 +66,23 @@ Oscilloscope, Programming Microcontrollers, SMD/ THT Soldering for PCBs, Complex
 
 #### Work Experience
 - **Rev: Ithaca Start-Up Works - Hardware Prototyping Intern**  
-  [October, 2023] - [Present]
+  *October, 2023 - Present*
   -  Accelerated design process & prototype learning sessions for 20+ start-ups in consumer & healthcare technology
   - Led product development decisions & early verification testing for 3 early-stage MedTech companies
   - Advised directly on regulatory standards & Design for Manufacturing (DFM) for a chemo port aligning product
   
-- **Rapid Prototyping Laboratory - Machine Technician**
-  [October, 2023] - [Present]
+- **Rapid Prototyping Laboratory - Machine Technician**  
+  *October, 2023 - Present*
   - Operate & recondition additive manufacturing equipment in primary prototyping laboratory for the Mechanical Engineering Department at Cornell, including 30+ project teams, 75+ research groups, & all undergraduate classes
   - Facilitate ~10 customer requests per week in prototype design & 3D printing technology for academic/research applications
 
 - **Siemens Healthineers - Operations Leadership Development Program (OLDP) Intern**  
-  [June, 2025] - [August, 2025]  
+  *June, 2025 - August, 2025*
   - Standardized review process for 10+ years of SAP and D2 production records to improve root-cause analysis, isolate historical lot-to-lot variability, and recommend workflow improvements in 4 Atellica and Dimension liquid calibrators
   - Coordinated bulk containers scale-ups for 10+ finished-product reagents to reduce quality testing & net bottle changes
 
 - **J&J MedTech: Heart Recovery - preCARDIA Product Development Co-Op**  
-  [January, 2025] - [June, 2025]  
+  *January, 2025 - June, 2025*  
   - Innovated V1.0 console burn-in fixture for software integration & isolated electromechanical testing, consolidating 3+ mechanical & 8+ electronic subassemblies into a more accessible bench top for early verification testing
   - Optimized console operating temperatures for ~30 components by tailoring a thermal Data Acquisition System (DAQ), automating data analytics through MATLAB post-processing scripts, & redesigning wiring diagrams/routing for 20+ wires
   - Designed 4 custom prototyping fixtures for motor calibration & stress-strain characterization of medical disposables
