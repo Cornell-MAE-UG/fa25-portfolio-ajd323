@@ -61,7 +61,7 @@ Oscilloscope, Programming Microcontrollers, SMD/ THT Soldering for PCBs, Complex
   *Coordinated electromechanical research for an early point-of-care, volumetric blood flow device with Dr. Yi-Xian Qin*  
   - Synthesized a wearable device for fixturing ultrasound transducers, manufacturing 50+ PLA parts with modular sizing
   - Designed a custom 2-Layer PCB to interface with pressure & ultrasonic sensors for an electrically operational board
-  - Formulated carotid artery FEA for applanation tonometry to estimate arterial deformation & pressure with < 5% error
+
 ---
 
 #### Work Experience
