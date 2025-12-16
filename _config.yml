@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : Senior Mechanical Engineering Student at Cornell University
 name                     : Andrew D'Onofrio
 description              : Andrew D'Onofrio - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/fall-2025-portfolio-donofrio/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
