@@ -1,16 +1,16 @@
 ---
 layout: default
-title: <Your Name>
+title: Andrew D'Onofrio Bio
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Headshot.JPG" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Andrew D’Onofrio. I am a senior mechanical engineering student at Cornell University in the College of Engineering. I am currently exploring my interests in mechanical design and product development for medical applications, however, I am open to all related applications of mechanical problem-solving towards product development. Currently, I am a current Project Manager of the Cornell DEBUT project team, an undergraduate researcher for Dr. Yadong Wang’s Lab in collaboration with Anova Biomedical Inc., and a member of Cornell’s Rapid Prototyping Lab. Previously, I was a design consultant for Rev: Ithaca Start-Up Works and a visiting research intern for Dr. Yi-Xian Qin’s Lab at Stony Brook University.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Professionally, I am primarily involved in diagnostics and disposables in the MedTech industry. I am a previous Operations Development Leadership Program (OLDP) Intern at Siemens Healthineers, focused on improvements in liquid formulation processes. Additionally, I am a previous preCARDIA Product Development Co-Op at J&J Heart Recovery, developing engineering testing equipment and workflows for characterization of interactive console units.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

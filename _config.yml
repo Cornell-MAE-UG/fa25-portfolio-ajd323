@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Andrew D'Onofrio Portfolio
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+subtitle                 : Senior Mechanical Engineering Student at Cornell University
+name                     : Andrew D'Onofrio
+description              : Andrew D'Onofrio - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style
