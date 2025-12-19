@@ -6,43 +6,31 @@ technologies: [Regulatory Approaches, Workflows, Process Imporvement]
 image: /assets/images/Boeing_Plane.jpeg
 ---
 
-### Project Overview
+### Boeing 737 Case Study
 
-As a part of Cornell’s Fluid and Heat Transfer Laboratory, I developed a design process for optimizing the performance of a turbine blade with other mechanical engineering students. Our process leveraged 300+ lines of MATLAB-based simulations to determine ideal geometric parameters such as chord distribution and twist to maximize power output without structural failure. Our designs were printed with SLA Resin printers and assembled into small-scale turbines (R ~ 6 inches) and tested in a wind tunnel to quantify aerodynamic efficiency with turbine power curves.
+The 2018-2019 Boeing 737 MAX plane crashes are an excellent case study for observing failures in regulatory redundancy, enforcement of ethical practices in engineering practices, and navigating the complex social network in managing safety expectations. Through blatant objections to industry-wide transparency and a closed-minded corporate structure, the Boeing company created a crisis in the air travel industry by manufacturing faulty equipment and software, in particular, the MCAS (Maneuvering Characteristics Augmentation System) software for the Boeing 737 MAX. The 737 MAX’s MACS was a known faulty system that raised repeated internal flags across different engineering and testing teams for causing serious aircraft failures. However, due to competitive pressures from Airbus, the 737 MAXes were pushed to market, leading to a combined death toll of 346 people from Lion Air Flight 610 and Ethiopian Airlines Flight 302. The following is a thorough analysis of the engineering process made available through mainstream reporting, government audits, corporate whistleblowers, identifying the corporate/ internal regulatory failures at Boeing and improvements in private airline manufacturer workflows to limit the occurrence of these scandals.
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="{{ '/assets/images/Flowchart-Figure-1.png' | relative_url }}" alt="Figure 1" style="width: 500px;">
-  <p style="font-size: 0.6rem;">
-    <strong>Figure 1:</strong> A flow diagram of our design process and quantification of work-power output
-  </p>
-</div>
+### Corporate Engineering
 
-### Design Process
+For engineering teams, one of the largest scandals associated with the Boeing company involved the active suppression of testing failures with the MCAS system. New technology introduced to aircraft technology is generally subject to scrutiny and oversight through the five-phase aircraft certification framework from the FAA. The five phases include detailed and clear documentation on the conceptual design, requirements definitions, compliance planning, implementation, and authorization pathway to certify the safety of new technology. However, these steps were intentionally side-stepped by Boeing engineers during development, and according to a summary report from the FAA after the initial plane crashes, 7 major safety violations were identified that were likely to be flagged by regulators in the initial regulatory framework (FAA, 2020). Additionally, during development testing in the field, Boeing engineers, including Curtis Ewbank, spoke with the NYT regarding instances of Boeing engineering directors intentionally disregarding cockpit system failures during testing of MCAS and actively petitioned for transparency within regulatory documentation (Kitroeff, 2019). Despite the vast array of stakeholders involved with these projects, including design engineers, manufacturers, pilots, etc., there is no redundancy in the corporate decision-making that oversees unsafe practices that bottleneck through directors' choices.   
 
-The major design constraints for the turbine blade included geometric limitations (Length < 6 inches, Longest Downstream Length < 2 inches, etc.), performance metrics (maximum operating speed < 2000 RPM), and material strength. With this in mind, our group created an iterative MATLAB simulation that discretized the blade as 7 simplified, thin-rectangular structures and altered the chord length/pitch of the elements. This created an effective simulation of the operating efficiency of different blade designs, more specifically, estimating the output torque (in N*m) of various blade designs. Our group selected a blade that maximized power output without exceeding the ultimate stress of the blade’s material (with an additional 1.5 factor of safety), and proceeded to model the blade in Fusion360. With the pitch and chord length of the respective elements, the blade was designed with discrete NACA 4412 profiles and combined to create a smoothed, continuous blade.
+One major improvement would be greater engagement from aeronautics unions such as the International Association of Machinists and Aerospace Workers (IAM) and the Society of Professional Engineering Employees in Aerospace (SPEEA). From a surface-level analysis, employees maintain awareness of the environment of anti-consumer practices and Boeing, but are limited in enacting effective internal resolution, given the profit incentives for upper-level management. As such, a form of collective bargaining  may be required to include additional methods of open engagement from lower-level engineers and manufacturers. This would be an arduous process, considering Boeing’s long-standing anti-union practices within the last decade, as noted by The Guardian (Sainato, 2019)
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="{{ '/assets/images/CAD-Figure-2.png' | relative_url }}" alt="Figure 2" style="width: 100%;">
-    <p style="font-size: 0.6rem;"> <strong>Figure 2:</strong> A diagram of the discrete profiles leveraged for creating the blade design CAD</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="{{ '/assets/images/Render-Figure-3.png' | relative_url }}" alt="Figure 3" style="width: 100%;">
-    <p style="font-size: 0.6rem;"> <strong>Figure 3:</strong> A rendering of the final CAD design produced by our lab group and sent for SLA manufacturing</p>
-  </div>
-</div>
+### Self-Regulation
 
-### Testing Summary
+For the internal regulatory team, the scandal exposed the laissez-faire attitude of FAA representatives and Boeing employees in ensuring the protection of public safety. Although the engineering teams are responsible for the active suppression of core documentation, regulators' blind eye towards these new technologies exposed the quid pro quo relationship of powerful groups with vested interests. Through the Organization Designation Authorization (ODA) program, FAA duties were granted to internal Boeing employees who hold responsibilities towards the company’s shareholders as opposed to public safety. This relationship was solely responsible for establishing the revolving door between external FAA regulators and industry employees. One that led to nearly 200 incident reports being ignored by the FAA during the 737 MAX production, according to CNN (Devine, 2019).   
 
-Three wind turbine blades were produced with SLA manufacturing and assembled into a Horizontal-Axis Wind Turbine (HAWT). The singular turbine was fixed in the center of a typical low-velocity wind tunnel at Cornell University and connected to a data acquisition system (DAQ) powered by LabVI. Over several trials, the free-stream velocity of the wind tunnel was used to induce free rotational spin, which was quantified with an IR sensor for rotational RPM. With a torque brake applied to the horizontal axis of the turbine, the turbine's rotational rate was reduced by increasing the power to the torque brake. Each of these discrete increases in power was recorded with respect to the turbine’s steady-state rotation. Across several different free-stream velocities, the data were compiled to create power curves quantifying the turbine’s overall performance within a 2.75 m/s to 7.40 m/s range. The maximum torque generated by the blade was approximately 1.920 oz-in at about 1973 RPM, meeting the preset constraints of the design.
+One major improvement would be more rigorous, frequent, and independently-led government audits, as outlined by Congress’s CSR labeled “Federal Aviation Administration Oversight of Boeing” (Elias, 2024). Despite the Boeing company undergoing 100s of audits from Boeing employees and FAA representatives, more redundancies should be added with non-corporate members to ensure truthfulness and accuracy. Another major is to encourage our representatives to push CFRs that limit the quid-pro-quo relationship between the government and industry. In a corporate landscape where non-competes are still legal after a direct banning from the previous FTC Chair Lina Khan in 2024 (FTC, 2024), there should be a realistically enforceable prohibition on the revolving door of employees from the US government and private industries through an expansion of 5 CFR Part 2641. 5 CFR Part 2641 creates the framework for limiting post-government employment conflicts of interest; however, it is extremely limited in terms of clarity and scope. Through an expansion of this principle, greater scrutiny is enforceable for these types of relationships.
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="{{ '/assets/images/Curve-Figure-4.png' | relative_url }}" alt="Figure 4" style="width: 300px;">
-  <p style="font-size: 0.8rem;">
-    <strong>Figure 4:</strong> The turbine power curves assembled to quantify our blade turbine's performance in the wind tunnel
-  </p>
-</div>
+### Key Takeaways
 
-### Contributions
+Given air travel is a natural monopoly, the only effective methods for limiting future failures of corporate oversight are through aggressive government policy and enforced regulatory redundancies. From greater union engagement to an expansion of specific CFRs to prevent revolving door relationships between the government and industry, there are numerous measures to limit such atrocities in the future. The ASMEs outline ethical practices such as competence and respect for others, none of which are upheld where engineers do not hold negotiating power and integrity in corporate structures.
 
-My specific contributions for this project spanned across all of the stages of the blades development, including the initial assembly of the MATLAB simulation, creating the Fusion360 CAD and rendering, setting up and leading the execution of the blade performance experiment, and creating the output graphs quantifying performance. In addition, I led the compilation of the final design report and group presentation for the MAE 4272 laboratory staff.
+### Sources
+
+Devine, C., & Griffin, D. (2019, April 30). Boeing relied on single sensor for 737 Max that had been flagged 216 times to FAA. CNN. https://www.cnn.com/2019/04/30/politics/boeing-sensor-737-max-faa
+Federal Aviation Administration. (2020, November 18). Summary of the FAA’s Review of the Boeing 737 MAX. FAA.gov. https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf
+FTC. (2024, April 23). FTC Announces Rule Banning Noncompetes. Federal Trade Commission. https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes
+Kitroeff, N., Gelles, D., & Nicas, J. (2019, October 2). Boeing 737 Max Safety System Was Vetoed, Engineer Says. The New York Times. https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html
+Sainato, M. (2019, May 3). “It’s because we were union members”: Boeing fires workers who organized. The Guardian. https://www.theguardian.com/us-news/2019/may/03/boeing-union-workers-fired-south-carolina
+US Congress. (2025). Federal Aviation Administration Oversight of Boeing. Congress.gov. https://www.congress.gov/crs-product/IF12843
